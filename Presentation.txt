@@ -1,0 +1,10 @@
+Link to presentation:
+https://docs.google.com/presentation/d/1hVs2xz2m9uE5TmkVH0hJf0F0b_NWSAQNa2__BFP9mMk/edit?usp=sharing
+
+Format:
+1. Intro
+2. Overview of architectures
+*may want to add a slide to go into detail on each*
+3. Define best
+4. Which one is best
+5. end
