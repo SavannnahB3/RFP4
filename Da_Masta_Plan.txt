@@ -1,0 +1,24 @@
+The Masta Plan
+_____________________________________________________________________________________________
+4 Archetectures
+
+A)- Input -> Convolution-> Dense -> Output
+
+B)- Input ->  Convolution-> Dense -> Dense -> Output
+
+C)- Input -> Convolution -> Convlution -> Dense  -> Output
+
+D)- Input -> Convlution -> Dense -> Convolution -> Dense -> Output
+_____________________________________________________________________________________________
+Who Does What?
+
+Savannah (B)
+
+Justus (A)
+
+Maria (C)
+
+Nico (D)
+_____________________________________________________________________________________________
+Making Conclutions
+- Do we need to Pioritize having more Convolutional, Dense or are they both equally as importaint?
